@@ -33,7 +33,7 @@
 
 ## Installation
 1. Clone or download the project
-git clone https://github.com/your-repo/vanily-license-manager.git
+git clone https://github.com/S1rChips/Vanily-License-System.git
 cd vanily-license-manager
 
 2. Install dependencies
