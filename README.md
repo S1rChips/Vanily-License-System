@@ -32,17 +32,17 @@
 ## 🚀 Quick Start
 
 ## Installation
-# 1. Clone or download the project
+1. Clone or download the project
 git clone https://github.com/your-repo/vanily-license-manager.git
 cd vanily-license-manager
 
-# 2. Install dependencies
+2. Install dependencies
 pip install flask requests
 
-# 3. (Optional) For Discord bot integration
+3. (Optional) For Discord bot integration
 pip install discord.py
 
-# 4. Run the application
+4. Run the application
 python app.py
 
 ### Prerequisites
