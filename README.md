@@ -31,16 +31,6 @@
 
 ## 🚀 Quick Start
 
-### Prerequisites
-
-```bash
-# Required
-Python 3.8 or higher
-pip package manager
-
-# Optional (for Discord Bot)
-discord.py
-
 ## Installation
 # 1. Clone or download the project
 git clone https://github.com/your-repo/vanily-license-manager.git
@@ -54,3 +44,13 @@ pip install discord.py
 
 # 4. Run the application
 python app.py
+
+### Prerequisites
+
+```bash
+# Required
+Python 3.8 or higher
+pip package manager
+
+# Optional (for Discord Bot)
+discord.py
